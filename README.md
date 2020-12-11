@@ -1,5 +1,4 @@
-# conference-talks
-Slides for my conference talks
+# Presentations for my conference talks
 
 - BSides DFW 2020 - [Automating Threat Hunting on the Dark Web and other nitty-gritty things](BSides%20DFW%202020/Automate_Dark_Web_Hunting.pdf)
 - Grayhat Blue Team Village 2020 - [Automating Threat Hunting on the Dark Web and other nitty-gritty things](Grayhat%20Blue%20Team%20Village%202020/Automate_Dark_Web_Hunting.pdf)
@@ -13,6 +12,6 @@ Slides for my conference talks
 
 
 
-## License
+# License
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>
