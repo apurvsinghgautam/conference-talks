@@ -1,6 +1,6 @@
 # Presentations for my conference talks
 
-- BSides DFW 2020 - [Automating Threat Hunting on the Dark Web and other nitty-gritty things](BSides%20DFW%202020/Automate_Dark_Web_Hunting.pdf)
+- BSides DFW 2020, BSides Philly 2020 - [Automating Threat Hunting on the Dark Web and other nitty-gritty things](BSides%20DFW%202020/Automate_Dark_Web_Hunting.pdf)
 - Grayhat Blue Team Village 2020 - [Automating Threat Hunting on the Dark Web and other nitty-gritty things](Grayhat%20Blue%20Team%20Village%202020/Automate_Dark_Web_Hunting.pdf)
 - BSides Toronto 2020 - [Automating Threat Hunting on the Dark Web and other nitty-gritty things](BSides%20Toronto%202020/Automate_Dark_Web_Hunting.pdf)
 - RootCon 2020 - [Automating Threat Hunting on the Dark Web and other nitty-gritty things](RootCon%202020/Automate_Dark_Web_Hunting.pdf)
