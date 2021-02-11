@@ -1,5 +1,6 @@
 # Presentations for my conference talks
 
+- SANS Open-Source Intelligence Summit 2021 - [OSINT Tools for diving deep into the Dark Web](SANS%20Open%20Source%20Intelligence%20Summit%202021/OSINT%20Tools%20for%20diving%20deep%20Dark%20Web.pdf)
 - BSides DFW 2020, BSides Philly 2020 - [Automating Threat Hunting on the Dark Web and other nitty-gritty things](BSides%20DFW%202020/Automate_Dark_Web_Hunting.pdf)
 - Grayhat Blue Team Village 2020 - [Automating Threat Hunting on the Dark Web and other nitty-gritty things](Grayhat%20Blue%20Team%20Village%202020/Automate_Dark_Web_Hunting.pdf)
 - BSides Toronto 2020 - [Automating Threat Hunting on the Dark Web and other nitty-gritty things](BSides%20Toronto%202020/Automate_Dark_Web_Hunting.pdf)
