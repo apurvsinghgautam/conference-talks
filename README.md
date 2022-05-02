@@ -1,6 +1,7 @@
 # Presentations for my conference talks
 
-- CactusCon 2022 - [Practical Dark Web Hunting using Automated Scripts](Practical%20Dark%20Web%20Hunting%20using%20Automated%20Scripts/Practical%20Dark%20Web%20Hunting%20using%20Automated%20Scripts.pdf)
+- BSides Charm 2020 - [Practical Dark Web Hunting using Automated Scripts](BSides%20Charm%202022/)
+- CactusCon 2022 - [Practical Dark Web Hunting using Automated Scripts](CactusCon%202022/Practical%20Dark%20Web%20Hunting%20using%20Automated%20Scripts.pdf)
 - CyberPreserve 2021 - [Darknet & OSINT](CyberPreserve/Darkweb%20%26%20OSINT.pdf)
 - SANS Open-Source Intelligence Summit 2021 - [OSINT Tools for diving deep into the Dark Web](SANS%20Open%20Source%20Intelligence%20Summit%202021/OSINT%20Tools%20for%20diving%20deep%20Dark%20Web.pdf)
 - BSides DFW 2020, BSides Philly 2020 - [Automating Threat Hunting on the Dark Web and other nitty-gritty things](BSides%20DFW%202020/Automate_Dark_Web_Hunting.pdf)
