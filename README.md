@@ -1,4 +1,4 @@
-# Presentations for my conference talks
+# Presentations for my conference talks/workshops
 
 - BSides Charm 2022 - [Practical Dark Web Hunting using Automated Scripts](BSides%20Charm%202022/)
 - CactusCon 2022 - [Practical Dark Web Hunting using Automated Scripts](CactusCon%202022/Practical%20Dark%20Web%20Hunting%20using%20Automated%20Scripts.pdf)
