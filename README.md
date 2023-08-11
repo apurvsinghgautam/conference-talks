@@ -1,6 +1,6 @@
 # Presentations for my conference talks/workshops
 
-- Texas Cyber Summit 2022 - [Diving into the Underground Market of Stealer Logs](/Diving%20into%20the%20Underground%20Market%20of%20Stealer%20Logs.pdf)
+- Texas Cyber Summit 2022 - [Diving into the Underground Market of Stealer Logs](Diving%20into%20the%20Underground%20Market%20of%20Stealer%20Logs.pdf)
 - DEFCON 30 Blue Team Village 2022 - [Practical Dark Web Hunting using Automated Scripts](DEFCON%2030%20Blue%20Team%20Village%202022/)
 - BSides Charm 2022, Texas Cyber Summit 2022 - [Practical Dark Web Hunting using Automated Scripts](BSides%20Charm%202022/)
 - CactusCon 2022 - [Practical Dark Web Hunting using Automated Scripts](CactusCon%202022/Practical%20Dark%20Web%20Hunting%20using%20Automated%20Scripts.pdf)
