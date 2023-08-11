@@ -1,7 +1,7 @@
 # Presentations for my conference talks/workshops
 
 - DEFCON 30 Blue Team Village 2022 - [Practical Dark Web Hunting using Automated Scripts](DEFCON%2030%20Blue%20Team%20Village%202022/)
-- BSides Charm 2022 - [Practical Dark Web Hunting using Automated Scripts](BSides%20Charm%202022/)
+- BSides Charm 2022, Texas Cyber Summit 2022 - [Practical Dark Web Hunting using Automated Scripts](BSides%20Charm%202022/)
 - CactusCon 2022 - [Practical Dark Web Hunting using Automated Scripts](CactusCon%202022/Practical%20Dark%20Web%20Hunting%20using%20Automated%20Scripts.pdf)
 - CyberPreserve 2021 - [Darknet & OSINT](CyberPreserve/Darkweb%20%26%20OSINT.pdf)
 - SANS Open-Source Intelligence Summit 2021 - [OSINT Tools for diving deep into the Dark Web](SANS%20Open%20Source%20Intelligence%20Summit%202021/OSINT%20Tools%20for%20diving%20deep%20Dark%20Web.pdf)
